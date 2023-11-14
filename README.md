@@ -1,7 +1,8 @@
 # HTML-CSS-Projects
 
 ## Description
-This repository is full of simple and responsive designs and  various type of websites are built using only HTML and CSS. It serves as a foundation for beginners learning web development with a focus on creating a clean and visually appealing user interface.
+
+This repository is full of simple and responsive designs and various type of websites are built using only HTML and CSS. It serves as a foundation for beginners learning web development with a focus on creating a clean and visually appealing user interface.
 
 ## Features
 
@@ -13,9 +14,9 @@ This repository is full of simple and responsive designs and  various type of we
 
 1. Clone the repository to your local machine:
 
-    ```bash
-    git clone https://github.com/Injamulhasan/HTML-CSS-Projects
-    ```
+   ```bash
+   git clone https://github.com/Injamulhasan/HTML-CSS-Projects
+   ```
 
 2. Open the `index.html` file in your preferred web browser.
 
@@ -28,17 +29,19 @@ This repository is full of simple and responsive designs and  various type of we
 
 ## Project Name
 
- - 1_Drop_Down_Menu Design
+- 1_Drop_Down_Menu Design
 
- - 2_CardDesign
+- 2_CardDesign
 
- https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/257ae651-a6e2-47fb-8e69-b9fa03689c2d
+https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/257ae651-a6e2-47fb-8e69-b9fa03689c2d
 
+- 3_ModernLogin
+
+https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/91c5fcd1-a492-4ff6-8c79-cfc6005efa8d
 
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements or suggestions are welcome.
-
 
 ## Acknowledgments
 
@@ -48,6 +51,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 For any inquiries or feedback, please contact Injamul hasan at -
 
-```injamulhasanakash@yahoo.com ```
+`injamulhasanakash@yahoo.com `
 
 Happy coding!
