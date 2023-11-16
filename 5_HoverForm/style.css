@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #151222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white;
+    margin-right: 85vh;
+}
+
+.con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 1800px;
+    border: 2px solid white;
+    position: relative;
+    border-radius: 12px;
+
+}
+
+.con:hover{
+    border: none;
+}
+.con:hover i{
+    animation: animate 8s linear infinite;
+    border: 5px solid var(--clr);
+    display: block;
+    filter: drop-shadow(0px 0px 24px var(--clr));
+}
+@keyframes animate {
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}
+.con i {
+    position: absolute;
+    inset: 0;
+    border: 2px solid;
+    z-index: -1;
+    display: none;
+}
+
+.con i:nth-child(1) {
+    animation: animate 8s linear infinite;
+    border-radius: 50% 50% 46% 54% / 54% 30% 70% 46%;
+}
+
+.con i:nth-child(2) {
+    animation: animate 18s linear infinite;
+    border-radius: 65% 35% 38% 62% / 72% 51% 49% 28%;
+}
+
+.con i:nth-child(3) {
+    animation: animate 12s reverse infinite;
+    border-radius: 79% 21% 30% 70% / 31% 71% 29% 69%;
+}
+.con i:nth-child(4) {
+    animation: animate 18s reverse infinite;
+    border-radius:59% 41% 61% 39% / 63% 71% 29% 37% ;
+}
+
+.con i:nth-child(5) {
+    animation: animate 12s reverse infinite;
+    border-radius: 79% 21% 30% 30% / 31% 11% 29% 69%;
+}
+
+.form {
+height: 400px;
+width: 400px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 25px;
+}
+.form h2 {
+    font-size: 2.4em;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: rgb(42, 206, 50);
+    text-shadow: 1px 1px 25px rgb(42, 206, 50) ;
+}
+
+.form .inputbox input {
+    height: 50px;
+    width: 320px;
+    padding-left: 10px;
+    background: transparent;
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 20px;
+    color: rgba(203,199,199);
+    font-size: 1em;
+    overflow: hidden;
+    outline: none;
+}
+
+.form .inputbox input:focus {
+    border: 1.5px solid rgba(255, 255, 255, 0.3);
+}
+
+
+.form .inputbox input::placeholder {
+    color: rgba(167,162,162);
+    font-size: 0.8em;
+}
+
+.form .inputbox input[type = "submit"] {
+    background: linear-gradient(90deg,rgb(42, 206, 50),rgb(37, 199, 37));
+    border: none;
+    font-size: 1.2em;
+    font-weight: 600;
+    text-shadow: 1px 1px 13px ;
+    width: 300px;
+    height: 45px;
+    cursor: pointer;
+}
+
+.form .inputbox input[type = "submit"]:hover {
+    background: linear-gradient(90deg, blueviolet, orangered );
+}
+
+.links {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 25px;
+}
+
+.links a {
+    text-decoration: none;
+    color: rgb(207, 241, 207);
+    
+}
+.links a:hover {
+    color: rgb(240, 200, 154);
+    text-decoration: underline;
+    transition: 0.3s;
+}
