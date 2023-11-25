@@ -29,18 +29,19 @@ This repository is full of simple and responsive designs and various type of web
 
 ## Project Name
 
+- Responsive Portfolio Contact psge Design : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/50991263-1382-4f91-9414-bb56f8352d18
+
+![desktop_view](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/9c7cf2e8-76d6-4cf7-9f95-b8130c76c182)
+
 - Responsive Service Page: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/24778e78-d294-46ee-b833-32e809300abe
 
 - Drop_Down_Menu Design
 
-- CardDesign:
-https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/257ae651-a6e2-47fb-8e69-b9fa03689c2d
+- CardDesign: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/257ae651-a6e2-47fb-8e69-b9fa03689c2d
 
-- ModernLogin:
-https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/91c5fcd1-a492-4ff6-8c79-cfc6005efa8d
+- ModernLogin: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/91c5fcd1-a492-4ff6-8c79-cfc6005efa8d
 
-- HoverLoginForm
-https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/e60dbd89-afe5-4fc1-99f3-8684debc4c60
+- HoverLoginForm: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/e60dbd89-afe5-4fc1-99f3-8684debc4c60
 
 
 ## Contributing
