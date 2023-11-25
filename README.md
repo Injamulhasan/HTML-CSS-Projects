@@ -29,9 +29,7 @@ This repository is full of simple and responsive designs and various type of web
 
 ## Project Name
 
-- Responsive Service Page
-
-https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/24778e78-d294-46ee-b833-32e809300abe
+- Responsive Service Page: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/24778e78-d294-46ee-b833-32e809300abe
 
 - Drop_Down_Menu Design
 
