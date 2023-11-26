@@ -29,7 +29,11 @@ This repository is full of simple and responsive designs and various type of web
 
 ## Project Name
 
-- Responsive Portfolio Contact psge Design : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/50991263-1382-4f91-9414-bb56f8352d18
+- Responsive Login & Register page : https://github.com/Injamulhasan/Injamulhasan/assets/102874510/ed559a0d-afa6-4ad2-87dd-5a2f5cb4e91a
+
+![desktop-view_screencapture](https://github.com/Injamulhasan/Injamulhasan/assets/102874510/f3437cd5-01b3-498b-8cd1-e180b725d5ad)
+
+- Responsive Portfolio Contact page Design : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/50991263-1382-4f91-9414-bb56f8352d18
 
 ![desktop_view](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/9c7cf2e8-76d6-4cf7-9f95-b8130c76c182)
 
