@@ -1,5 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&family=Poppins:ital,wght@0,400;0,500;1,100;1,300&family=Raleway:ital@0;1&display=swap');
+
+:root {
+  --purple: #2F192E;
+  --purple-light: #30192d;
+  --dark-blue: #012677;
+  --blue: #5c65c0;
+  --skyblue: #00b4fc;
+  --light-blue: #005bc5;
+  --dark-pink: #f64c57;
+  --dark-megenta: #e21b5a;
+  --light-green: #61e2c2;
+  --light-purple: #d9abff;
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    font-family: poppins;
+}
+
+body {
+  background: linear-gradient(45deg , var(--purple) , var(--purple-light));
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100%;
+  width: 100%;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.profile-card {
+  background: #111;
+  width: 400px;
+  padding: 3rem;
+  border-radius: 10px;
+  min-height: 400px;
+  position: relative;
+  color: #fff;
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.profile-card .profile-pic {
+  margin-top: 15px;
+  overflow: hidden;
+}
+
+.profile-card .profile-pic img {
+  border-radius: 15px;
+  height: 350px;
+  width: 350px;
+}
+
+.profile-card  .profile-details {
+  display:flex ;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.profile-details .intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.profile-details .intro h2 {
+  margin-top: 20px;
+}
+
+.profile-details .intro h4 {
+  background: linear-gradient(45deg , #582f56 ,#434885);
+  /* background: #1d1d1d; */
+  font-weight: 400;
+  border-radius: 35px;
+  padding: 5px 10px;
+  margin: 8px;
+}
+
+.profile-details .intro .social {
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.profile-details .intro .social i {
+  background-color: #222;
+  font-size: 16px;
+  color: #ddd;
+  margin: 5px;
+  height: 35px;
+  width: 35px;
+  line-height: 35px;
+  text-align: center;
+  border-radius: 20px;
+  transition: 0.5s;
+}
+
+.profile-details .intro .social i:hover {
+  transform: scale(1.2);
+  border: 1px solid gray;
+}
+
+.profile-details .contact-info {
+  background-color: #1d1d1d;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.profile-details .contact-info .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  padding: 10px 0 ;
+  margin-bottom: 10px;
+}
+
+.profile-details .contact-info .row .icon {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  border-radius: 5px;
+  background-color: #111;
+  text-align: center;
+  color: #fff;
+  transition: 0.5s;
+}
+
+.profile-details .contact-info .row .icon:hover {
+  transform: scale(1.1);
+  border: 1px solid gray;
+}
+
+.profile-details .contact-info .row .content {
+  min-width: 70%;
+  
+}
+
+.profile-details .contact-info .row 
+.content span {
+  font-size: 12px;
+}
+
+#mail {
+  font-size: 11px;
+}
+
+.download-btn {
+  background: linear-gradient(45deg , #582f56 ,#434885);
+  color: #fff;
+  padding: 1rem 1rem;
+  border-radius: 45px;
+  margin-top: 1.5rem;
+  border: transparent;
+  transition: 0.5s;
+}
+.download-btn i {
+  padding: 7px;
+}
+
+.download-btn:hover {
+  background: linear-gradient(45deg, rgb(233, 127, 56), rgb(231, 49, 49) );
+  transform: scale(1.1);
+  border: 1px solid gray;
 }
