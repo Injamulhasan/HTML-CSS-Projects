@@ -22,7 +22,8 @@
 }
 
 body {
-  background: linear-gradient(45deg , var(--purple) , var(--purple-light));
+  /* background: linear-gradient(45deg , var(--purple) , var(--purple-light)); */
+  background: linear-gradient(45deg , #582f56 ,#434885);
 }
 
 .container {
@@ -40,14 +41,16 @@ body {
   width: 400px;
   padding: 3rem;
   border-radius: 10px;
-  min-height: 400px;
+  min-height: 200px;
   position: relative;
   color: #fff;
   margin: 15px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   flex-direction: column;
+  /* border: 2px solid red; */
+  box-shadow: 0px 0px 18px #b8b5b5;
 }
 
 .profile-card .profile-pic {
@@ -155,7 +158,7 @@ body {
 }
 
 #mail {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .download-btn {
@@ -166,13 +169,117 @@ body {
   margin-top: 1.5rem;
   border: transparent;
   transition: 0.5s;
+  font-weight: bold;
 }
+
 .download-btn i {
   padding: 7px;
+  /* cursor: pointer; */
 }
 
 .download-btn:hover {
   background: linear-gradient(45deg, rgb(233, 127, 56), rgb(231, 49, 49) );
   transform: scale(1.1);
   border: 1px solid gray;
+  cursor: pointer;
+}
+
+
+
+/* about section */
+
+.about {
+  background-color: #111;
+  max-width: 800px;
+  padding: 2rem 3rem;
+  border-radius: 10px;
+  margin-right: 5px;
+  box-shadow: 0px 0px 18px #b8b5b5;
+}
+
+.about h1 {
+  color: #f2f2f2;
+  margin-bottom: 1.1rem;
+  position: relative;
+  display: inline-block;
+  font-size: 3.5rem;
+  border-bottom: 1px solid gray
+}
+
+
+.about h1::after {
+  position: absolute;
+  content: "";
+  top: 50%;
+  left: 120%;
+  width: 50%;
+  height: 3px;
+  background: linear-gradient(45deg , #582f56 ,#434885);
+}
+
+.about h2 {
+  color: #f2f2f2;
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}
+.about p {
+  color: #555;
+  margin: 1.5rem 0;
+}
+
+.about .work {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+}
+
+.work .workbox {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px;
+  border: 1px solid grey;
+  padding: 1.2rem ;
+  margin: 1rem;
+  transition: 0.5s;
+}
+.work .workbox:hover{
+  transform: scale(1.1);
+  background: linear-gradient(45deg , #582f56 ,#434885 );
+  cursor: pointer;
+  box-shadow: 0px 0px 18px #b8b5b5;
+}
+
+.work .workbox .desc {
+  width: 75%;
+  color: #555;
+}
+
+.work .workbox .desc h3 {
+  color: #f2f2f2;
+  margin-bottom: 3px;
+}
+
+.work .workbox .desc p {
+  color: #c0bbbb;
+  margin-bottom: 3px;
+  margin: 0px;
+}
+
+
+/* responsive media quiries */
+@media(max-width:768px) 
+{
+  .about {
+    width: 100%;
+    max-width: 400px;
+    padding: 1rem;
+    margin: 1rem;
+  }
+  .about h1 {
+    font-size: 2.2rem;
+  }
+  .about .work {
+    grid-template-columns: repeat(1,1fr);
+    grid-template-rows: repeat(4,auto);
+  }
 }
