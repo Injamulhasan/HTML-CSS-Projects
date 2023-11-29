@@ -29,6 +29,10 @@ This repository is full of simple and responsive designs and various type of web
 
 ## Project Name
 
+- Portfolio Page Design : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/04935ffd-5e5e-4a59-9105-31af28fc149e
+
+![desktopview](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/e4796135-fc97-4672-ae2b-d7455ccc744b)
+
 - Responsive Login & Register page : https://github.com/Injamulhasan/Injamulhasan/assets/102874510/ed559a0d-afa6-4ad2-87dd-5a2f5cb4e91a
 
 ![desktop-view_screencapture](https://github.com/Injamulhasan/Injamulhasan/assets/102874510/f3437cd5-01b3-498b-8cd1-e180b725d5ad)
@@ -46,7 +50,6 @@ This repository is full of simple and responsive designs and various type of web
 - ModernLogin: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/91c5fcd1-a492-4ff6-8c79-cfc6005efa8d
 
 - HoverLoginForm: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/e60dbd89-afe5-4fc1-99f3-8684debc4c60
-
 
 ## Contributing
 
