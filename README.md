@@ -47,13 +47,23 @@ This repository is full of simple and responsive designs and various type of web
 
 - Responsive Service Page: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/24778e78-d294-46ee-b833-32e809300abe
 
+![screencapture-127-0-0-1-5500-6-Responsive-ServicesPage-index-html-2023-12-01-02_20_15](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/92a2b250-e7cd-434c-a38e-017bce15c0ba)
+
 - Drop_Down_Menu Design
+
+![Drop down project](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/91bcac01-fde9-462d-a9c8-ba38ee1efa5c)
 
 - CardDesign: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/257ae651-a6e2-47fb-8e69-b9fa03689c2d
 
+![screencapture-127-0-0-1-5500-2-CardDesign-index-html-2023-12-01-02_22_17](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/2e04ee01-a034-4be1-a904-8d5d59f431f0)
+
 - ModernLogin: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/91c5fcd1-a492-4ff6-8c79-cfc6005efa8d
 
+![Project screencapture](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/1ef78b54-a5ce-43f0-8983-7cee02d369f2)
+
 - HoverLoginForm: https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/e60dbd89-afe5-4fc1-99f3-8684debc4c60
+
+![Screenshot 2023-11-16 102858](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/8e200dd4-ed84-4192-a579-d227b448e684)
 
 ## Contributing
 
