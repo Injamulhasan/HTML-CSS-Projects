@@ -29,6 +29,10 @@ This repository is full of simple and responsive designs and various type of web
 
 ## Project Name
 
+- Modern Animated Login and Register Page Design : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/975ddb35-88aa-4f97-8ea1-01f4bf72cb26
+
+![desktop-view](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/6b1f8401-e0cd-4f54-9bdd-39558c305f8a)
+
 - Portfolio Page Design : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/04935ffd-5e5e-4a59-9105-31af28fc149e
 
 ![desktopview](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/e4796135-fc97-4672-ae2b-d7455ccc744b)
