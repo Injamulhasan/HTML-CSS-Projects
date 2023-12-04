@@ -199,35 +199,81 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
 @media screen and (max-width:900px) {
+  .container1 p,span ,a {
+    font-size: 11;
+  }
+  .container2 p,span ,a{
+    font-size: 11;
+  }
 
-  
+  .card-panel h1{
+    font-size: 1.7rem;
+  }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:678px) {
+  .card-panel h1{
+    font-size: 1.3rem;
+  }
+  social-icons a {
+    margin: 0 6px;
+    width: 1.6rem;
+    height: 1.6rem; 
+  }
+.container1 button ,.container2 button {
+  padding:10px 20px ;
+  }
+
+.card-panel p {
+  font-size: 10px;
+  }
+
+.container1 h1 ,.container2 h1 {
+  font-size: 1.5rem;
+  }
+
+
 
 }
 
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:550px) {
+  .card-panel h1{
+    font-size: 1.2rem;
+  }
+
+  social-icons a {
+    margin: 0 0.2rem;
+    width: 1.4rem;
+    height: 1.4rem; 
+  }
+
+.container1 h1 ,.container2 h1 {
+  font-size: 1.3rem;
+  }
+
+  .container1 button ,.container2 button {
+    padding:8px 15px ;
+  }
 
 } 
-*/
+
+
+@media screen and (max-width:420px) {
+  .card-panel h1{
+    font-size: 1rem;
+  }
+  social-icons a {
+    margin: 0 0.2rem;
+    width: 1.0rem;
+    height: 1.0rem; 
+  }
+  .container1 h1 ,.container2 h1 {
+    font-size: 1.1rem;
+  }
+
+  .container1 button ,.container2 button {
+    padding:6px 12px ;
+  }
+} 
