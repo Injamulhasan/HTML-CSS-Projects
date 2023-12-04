@@ -37,9 +37,9 @@ This repository is full of simple and responsive designs and various type of web
 
 ![desktopview](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/e4796135-fc97-4672-ae2b-d7455ccc744b)
 
-- Responsive Login & Register page : https://github.com/Injamulhasan/Injamulhasan/assets/102874510/ed559a0d-afa6-4ad2-87dd-5a2f5cb4e91a
-
-![desktop-view_screencapture](https://github.com/Injamulhasan/Injamulhasan/assets/102874510/f3437cd5-01b3-498b-8cd1-e180b725d5ad)
+- Responsive Login & Register page : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/d9e38cfc-96a9-4357-ac4d-ff63814cb510
+  
+![re-design](https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/02a4af21-1ca1-49c5-92ab-35ec042a7468)
 
 - Responsive Portfolio Contact page Design : https://github.com/Injamulhasan/HTML-CSS-Projects/assets/102874510/50991263-1382-4f91-9414-bb56f8352d18
 
