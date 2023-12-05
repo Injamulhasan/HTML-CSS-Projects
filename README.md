@@ -25,7 +25,7 @@ This repository is full of simple and responsive designs and various type of web
 ## Structure
 
 - `index.html`: Main HTML file containing the structure of the website.
-- `styles.css`: CSS file for styling the HTML elements.
+- `style.css`: CSS file for styling the HTML elements.
 
 ## Project Name
 
