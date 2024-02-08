@@ -13,7 +13,7 @@
     <link rel="short icon" href="/img/gazelle.svg" type="img/svg+xml" />
   </head>
   <body>
-<!-- head -->
+    <!-- head -->
     <header class="container">
       <div class="page-header">
         <div class="logo">
@@ -25,7 +25,7 @@
             <i class="bx bx-menu"></i>
           </div>
 
-<!-- navbar -->
+          <!-- navbar -->
         </label>
         <ul>
           <li><a href="#" class="active" style="--navAni: 1">Home</a></li>
@@ -41,20 +41,25 @@
       </div>
     </header>
 
-<!-- side social links -->
+    <!-- side social links -->
     <section class="container">
       <div class="main">
         <div class="social">
           <a href="#" style="--socialAni: 1"><i class="bx bxl-linkedin"></i></a>
-          <a href="#" style="--socialAni: 1"><i class="bx bxl-instagram"></i ></a>
-          <a href="#" style="--socialAni: 1"><i class="bx bxl-facebook-circle"></i></a>
+          <a href="#" style="--socialAni: 1"
+            ><i class="bx bxl-instagram"></i
+          ></a>
+          <a href="#" style="--socialAni: 1"
+            ><i class="bx bxl-facebook-circle"></i
+          ></a>
         </div>
-<!-- hero section -->
-        <div class="details">
+        <!-- hero section -->
+        <div class="detail">
           <h1>Hi, I'm <span>Injamul Hasan</span></h1>
           <h3>Web Application Developer</h3>
           <p>
-            💻 I'm a self-taught Web Developer 🌱 An Open-Source Enthusiast. 🤖<br>
+            💻 I'm a self-taught Web Developer 🌱 An Open-Source Enthusiast.
+            🤖<br />
             I love to work with new advances and playing with various stacks .
             🦾 Having some expertise in Front End Development. Experienced with
             various ways to deal with the advancement of dynamic web projects.
@@ -66,7 +71,7 @@
             <button>Download CV</button>
           </div>
         </div>
-<!-- image -->
+        <!-- image -->
         <div class="img-sec">
           <div class="images">
             <img src="img/me.svg" alt="" class="img-w" />
@@ -75,23 +80,23 @@
       </div>
     </section>
 
-<!-- Js Script -->
+    <!-- Js Script -->
     <script>
-      const darkbtn = documnet.getElementById('darkbtn');
+      const darkbtn = documnet.getElementById("darkbtn");
       const body = documnet.body;
-      const isDarkMode = localStorage.getItem('darkMode') === 'enabled';
+      const isDarkMode = localStorage.getItem("darkMode") === "enabled";
       if (isDarkMode) {
-        body.classist.add('dark-mode');
+        body.classist.add("dark-mode");
         darkbtn.checked = true;
       }
 
-      darkbtn.addEventListerner('change',() =>{
+      darkbtn.addEventListerner("change", () => {
         if (darkbtn.checked) {
-          body.classList.add('dark-mode');
-          localStorage.setItem('darkMode','enabled');
+          body.classList.add("dark-mode");
+          localStorage.setItem("darkMode", "enabled");
         } else {
-          body.classList.remove('dark-mode');
-          localStorage.setItem('darkMode','disabled')
+          body.classList.remove("dark-mode");
+          localStorage.setItem("darkMode", "disabled");
         }
       });
     </script>
